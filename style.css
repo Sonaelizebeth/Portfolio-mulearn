@@ -436,3 +436,7 @@ header .navbar ul li a:hover {
     margin: 3rem 0;
   }
 }
+
+.cc{
+  color:var(--blue);
+}
